@@ -1,0 +1,13 @@
+﻿  BattleBoatsBoard.cpp
+c:\users\student\source\repos\battleboatsgame\battleboatsgame\battleboat.h(10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\student\source\repos\battleboatsgame\battleboatsgame\battleboat.h(10): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+c:\users\student\source\repos\battleboatsgame\battleboatsgame\battleboatsboard.cpp(82): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\student\source\repos\battleboatsgame\battleboatsgame\battleboatsboard.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\student\source\repos\battleboatsgame\battleboatsgame\battleboatsboard.cpp(153): warning C4018: '<': signed/unsigned mismatch
+c:\users\student\source\repos\battleboatsgame\battleboatsgame\battleboatsboard.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\student\source\repos\battleboatsgame\battleboatsgame\battleboatsboard.cpp(203): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+c:\users\student\source\repos\battleboatsgame\battleboatsgame\battleboat.h(10): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\student\source\repos\battleboatsgame\battleboatsgame\battleboat.h(10): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Generating Code...
+  BattleBoatsGame.vcxproj -> C:\Users\Student\source\repos\BattleBoatsGame\Debug\BattleBoatsGame.exe
